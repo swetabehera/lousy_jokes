@@ -1,4 +1,4 @@
-# dad_jokes
+# LOUSY JOKES
 
 This is an API project that lets you get a joke with your desired keyword.
 
